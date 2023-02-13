@@ -22,7 +22,6 @@ public class Vetores {
 				System.out.println("O número não foi encontrado");
 
 	leia.close();		
-			
 		
 		}
 	}
