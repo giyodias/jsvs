@@ -1,9 +1,9 @@
-package exUmArray;
+package um;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class UmArray {
+public class Um {
 
 	public static void main(String[] args) {
 		
